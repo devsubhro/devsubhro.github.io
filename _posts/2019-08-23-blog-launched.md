@@ -9,3 +9,6 @@ and I can use Markdown to author my posts. It actually is a lot easier than I th
 
 Credit
 [A Guide to Creating and Hosting a Personal Website on GitHub](http://jmcglone.com/guides/github-pages/)
+
+Ref
+[Kramdown syntax](https://kramdown.gettalong.org/syntax.html)
